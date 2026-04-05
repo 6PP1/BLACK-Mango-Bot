@@ -40,6 +40,6 @@
 ## تعليمات الاستخدام
 1. تأكد من تثبيت Node.js و npm على جهازك.
 2. قم بإعداد المتغيرات البيئية كما هو موضح أعلاه.
-3. ابدأ البوت باستخدام الأمر `
+3. ابدأ البوت باستخدام الأمر node index.js`
 <img width="376" height="150" alt="image" src="https://github.com/user-attachments/assets/3c7d159e-55f8-4c32-aeda-7a0168475eff" />
-node index.js`.
+
